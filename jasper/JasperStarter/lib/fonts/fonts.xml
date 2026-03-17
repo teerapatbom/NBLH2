@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="Anusana New">
+        <normal>AnusanaNew.ttf</normal>
+        <bold>AnusanaNew-Bold.ttf</bold>
+        <italic>AnusanaNew-Italic.ttf</italic>
+        <boldItalic>AnusanaNew-BoldItalic.ttf</boldItalic>
+
+        <!-- สำคัญมากสำหรับภาษาไทย -->
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+    </fontFamily>
+</fontFamilies>
